@@ -1897,7 +1897,6 @@ Speed is useful for a demonstration, but quality and respect matter more in a re
 - Pro Git book: [git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - GitHub documentation: [docs.github.com](https://docs.github.com/)
 - GitHub Skills: [skills.github.com](https://skills.github.com/)
-- Choose an Open Source License: [choosealicense.com](https://choosealicense.com/)
 - Open Source Guides: [opensource.guide](https://opensource.guide/)
 - Open Source Initiative: [opensource.org](https://opensource.org/)
 - Open Source Kigali: [github.com/Open-Source-Kigali](https://github.com/Open-Source-Kigali)
