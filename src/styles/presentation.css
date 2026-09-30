@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--c-ink:#0C1A14;--c-deep:#10261E;--c-osk:#2EA043;--c-bright:#56D364;--c-amber:#F0A92B;--c-warm:#F7F5EF;--c-gray:#5B6B63;--c-line:#DCD8CD}
+html,body,#root{height:100%;margin:0}
+body{font-family:Inter,system-ui,sans-serif;background:var(--c-ink);color:var(--c-warm)}
+:focus-visible{outline:3px solid var(--c-amber);outline-offset:2px}
+@keyframes slideIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.slide-in{animation:slideIn .35s ease-out both}
+.reveal>*{animation:slideIn .5s ease-out both}
+.reveal>*:nth-child(2){animation-delay:.08s}.reveal>*:nth-child(3){animation-delay:.16s}
+.reveal>*:nth-child(4){animation-delay:.24s}.reveal>*:nth-child(5){animation-delay:.32s}
+.hide-cursor,.hide-cursor *{cursor:none}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+.print-page{width:1536px;height:864px;overflow:hidden;position:relative;break-after:page}
+.print-page>div{position:absolute;left:0;top:0;transform:scale(.8);transform-origin:top left}
+@page{size:16in 9in;margin:0}
+@media print{body{background:#fff}}
