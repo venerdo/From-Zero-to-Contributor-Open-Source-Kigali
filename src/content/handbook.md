@@ -3,7 +3,7 @@
 > A practical guide from complete beginner to confident contributor
 >
 > Prepared for **Open Source Kigali** learners and anyone beginning their open source journey.
-> By Ushindi Bihame Victoire / Osk Fullstack Software Engineer | Requirement Specialist
+> **By Ushindi Bihame Victoire / Osk Fullstack Software Engineer | Requirement Specialist**
 
 ---
 
@@ -1893,17 +1893,17 @@ Speed is useful for a demonstration, but quality and respect matter more in a re
 
 ## Trusted References
 
-- Git documentation: <https://git-scm.com/doc>
-- Pro Git book: <https://git-scm.com/book/en/v2>
-- GitHub documentation: <https://docs.github.com/>
-- GitHub Skills: <https://skills.github.com/>
-- Choose an Open Source License: <https://choosealicense.com/>
-- Open Source Guides: <https://opensource.guide/>
-- Open Source Initiative: <https://opensource.org/>
-- Open Source Kigali: <https://github.com/Open-Source-Kigali>
+- Git documentation: [git-scm.com/doc](https://git-scm.com/doc)
+- Pro Git book: [git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- GitHub documentation: [docs.github.com](https://docs.github.com/)
+- GitHub Skills: [skills.github.com](https://skills.github.com/)
+- Choose an Open Source License: [choosealicense.com](https://choosealicense.com/)
+- Open Source Guides: [opensource.guide](https://opensource.guide/)
+- Open Source Initiative: [opensource.org](https://opensource.org/)
+- Open Source Kigali: [github.com/Open-Source-Kigali](https://github.com/Open-Source-Kigali)
 
 ---
 
 *Keep learning. Keep building. Keep contributing.*
 
-> Prepared by Ushindi Bihame Victoire / Osk Fullstack Software Engineer | Requirement Specialist
+> **Prepared by Ushindi Bihame Victoire / Osk Fullstack Software Engineer | Requirement Specialist**
