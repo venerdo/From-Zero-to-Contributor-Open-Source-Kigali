@@ -10,10 +10,8 @@ npm run build    # type-check + production build into dist/
 npm run preview  # serve the build
 ```
 
-## This slide will be deploy to Vercel
-1. Create a GitHub repository and push: `git init && git add . && git commit -m "feat: initial presentation" && git branch -M main && git remote add origin <your-repo-url> && git push -u origin main`
-2. In Vercel choose **Add New → Project**, import the repo. Framework: Vite. Build: `npm run build`. Output: `dist`.
-3. Deploy. Routing uses query strings (`?slide=6`), so no SPA rewrite is needed.
+**This slide is deployed to Vercel**
+URL: [from-zero-to-contributor-open-sourc.vercel.app](https://from-zero-to-contributor-open-sourc.vercel.app/)
 
 ## Edit content
 - **Slides and speaker notes:** `src/slides/slides.ts`. Each entry has `id`, `title`, `layout`, text fields and `notes`.
